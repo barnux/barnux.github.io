@@ -1,6 +1,6 @@
 barnux.github.io
 ================
 
-Emanuele Bartolomucci's personal website, soon to be hosted on Github Pages.
+Emanuele Bartolomucci's personal website, hosted on Github Pages.
 
 http://emanuelebartolomucci.com

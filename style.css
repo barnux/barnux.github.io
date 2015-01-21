@@ -1,9 +1,13 @@
+html, body {
+  margin: 0;
+  height: 100%;
+  padding: 0;   
+}
+
 body {
     display: table;
-    height: 100%;
     width: 100%;
     position: absolute;
-    margin: 0;
     left: 0;
     top: 0;
     overflow-x: hidden;
