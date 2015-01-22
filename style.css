@@ -21,14 +21,24 @@ body {
     width: 100%;
 }
 
-h1 {
+
+h1, a, p {
+    color: #ddd;
     font-family: 'Lato', sans-serif;
-    font-size: 26px;
     text-align: center;
 }
 
-a {
-    color: #ddd;
-    text-decoration: none;
+h1 {
+    font-size: 26px;
     text-transform: lowercase;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 6px;
 }
