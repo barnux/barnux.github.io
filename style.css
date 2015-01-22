@@ -26,6 +26,7 @@ h1, a, p {
     color: #ddd;
     font-family: 'Lato', sans-serif;
     text-align: center;
+    line-height: 1.5em;
 }
 
 h1 {
