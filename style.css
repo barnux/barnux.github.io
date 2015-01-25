@@ -3,7 +3,6 @@ html, body {
   height: 100%;
   padding: 0;   
 }
-
 body {
     display: table;
     width: 100%;
@@ -13,33 +12,44 @@ body {
     overflow-x: hidden;
     background: #222;
 }
-
-.wrapper {
+.card {
     display: table-cell;
     float: none;
     vertical-align: middle;
     width: 100%;
 }
-
-
-h1, a, p {
+h1, a, .title {
     color: #ddd;
     font-family: 'Lato', sans-serif;
     text-align: center;
     line-height: 1.5em;
 }
-
 h1 {
     font-size: 26px;
     text-transform: lowercase;
 }
-
 a {
     text-decoration: none;
 }
-
-p {
+.givenName {
+    font-weight: 300;
+    margin-right: -2px;
+}
+.familyName {
+    font-weight: 900;
+    margin-left: -2px;
+}
+.title {
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 6px;
+}
+.title .first {
+    margin-right: -8px;
+}
+.title .second {
+    margin-left: -8px;
+}
+.email, .locality, .nickname {
+    display: none;
 }
