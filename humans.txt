@@ -1,10 +1,10 @@
 /* TEAM */
-Development: 	Emanuele Bartolomucci
-Location: 	London, UK
+Web design and development: Emanuele Bartolomucci.
+Location: Modena, Italy.
 
 /* SITE */
-Standards:	HTML5, CSS3
-Components:	Google Fonts, Google Tag Manager, CloudFlare
-IDE:		Sublime Text
-Hosting:	GitHub Pages
-Last update: 	2015/05/25
+Last update: 2015/02/05
+Standards: HTML5, CSS3
+Components: Google Fonts, Google Tag Manager, CloudFlare
+IDE: Sublime Text
+Hosting: GitHub Pages
