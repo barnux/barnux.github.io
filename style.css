@@ -18,11 +18,6 @@ body {
     float: none;
     vertical-align: middle;
     width: 100%;
-    opacity: 0;
-    -webkit-animation: fadein 4s 2s forwards;
-       -moz-animation: fadein 4s 2s forwards;
-         -o-animation: fadein 4s 2s forwards;
-            animation: fadein 4s 2s forwards;
 }
 @-webkit-keyframes fadein {
     from { opacity: 0; }
@@ -56,15 +51,30 @@ a {
 .givenName {
     font-weight: 300;
     margin-right: -2px;
+    opacity: 0;
+    -webkit-animation: fadein 3s 1s forwards;
+       -moz-animation: fadein 3s 1s forwards;
+         -o-animation: fadein 3s 1s forwards;
+            animation: fadein 3s 1s forwards;
 }
 .familyName {
     font-weight: 900;
     margin-left: -2px;
+    opacity: 0;
+    -webkit-animation: fadein 3s 1s forwards;
+       -moz-animation: fadein 3s 1s forwards;
+         -o-animation: fadein 3s 1s forwards;
+            animation: fadein 3s 1s forwards;
 }
 .title {
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 6px;
+    opacity: 0;
+    -webkit-animation: fadein 3s 3s forwards;
+       -moz-animation: fadein 3s 3s forwards;
+         -o-animation: fadein 3s 3s forwards;
+            animation: fadein 3s 3s forwards;
 }
 .title .first {
     margin-right: -8px;
@@ -78,8 +88,9 @@ a {
     font-size: 32px;
     text-align: center;
     display: block;
-    -webkit-animation: fadein 4s 4s forwards;
-       -moz-animation: fadein 4s 4s forwards;
-         -o-animation: fadein 4s 4s forwards;
-            animation: fadein 4s 4s forwards;
+    opacity: 0;
+    -webkit-animation: fadein .5s 6s forwards;
+       -moz-animation: fadein .5s 6s forwards;
+         -o-animation: fadein .5s 6s forwards;
+            animation: fadein .5s 6s forwards;
 }
