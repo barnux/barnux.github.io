@@ -72,11 +72,8 @@ a {
 .title .second {
     margin-left: -8px;
 }
-.email, .locality, .nickname {
-    display: none;
-}
 
-.material-icons.email {
+.email {
     margin: 32px;
     font-size: 32px;
     text-align: center;
