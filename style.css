@@ -75,3 +75,10 @@ a {
 .email, .locality, .nickname {
     display: none;
 }
+
+.material-icons.email {
+    margin: 32px;
+    font-size: 32px;
+    text-align: center;
+    display: block;
+}
