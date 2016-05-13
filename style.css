@@ -82,7 +82,11 @@ a {
 .title .second {
     margin-left: -8px;
 }
-
+.pilcrow {
+    font-size: x-large;
+    vertical-align: text-bottom;
+    margin: 0 10px;
+}
 .email {
     margin: 32px;
     font-size: 32px;
