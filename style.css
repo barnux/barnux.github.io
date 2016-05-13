@@ -85,7 +85,7 @@ a {
 .pilcrow {
     font-size: x-large;
     vertical-align: text-bottom;
-    margin: 0 10px;
+    margin: 0 8px 0 10px;
 }
 .email {
     margin: 32px;
