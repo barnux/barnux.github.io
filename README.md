@@ -1,8 +1,8 @@
 emabartolomucci.github.io
 ================
 
-Emanuele Bartolomucci's personal website, hosted on GitHub Pages.
+Emanuele Bartolomucci's personal website, hosted on Amazon S3 (previously on GitHub Pages).
 
 http://emanuelebartolomucci.com
 
-A bit more info at http://emanuelebartolomucci.com/humans.txt
+A little more info at http://emanuelebartolomucci.com/humans.txt

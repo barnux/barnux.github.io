@@ -35,7 +35,7 @@ body {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
-h1, a, .title {
+h1, a, .title, p {
     color: #ddd;
     font-family: 'Lato', sans-serif;
     text-align: center;
