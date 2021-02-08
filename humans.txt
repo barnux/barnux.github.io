@@ -1,11 +1,12 @@
 /* TEAM */
-Development: Emanuele Bartolomucci
-Location:    Rome, Italy
+Development:  Emanuele Bartolomucci
+Location:     Rome, Italy
 
 /* SITE */
-Standards:   HTML5, CSS3
-Components:  Google Fonts, Google Tag Manager
-IDE:         Sublime Text
-Hosting:     Amazon S3
-CDN:         Amazon CloudFront
-Last update: 2020/11/05
+Standards:    HTML5, CSS3
+Components:   Google Fonts, Google Analytics
+IDE:          Sublime Text
+Hosting:      Amazon S3
+CDN:          Amazon CloudFront
+DNS:          Namecheap
+Last update:  2021/02/08

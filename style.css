@@ -93,8 +93,8 @@ a {
     text-align: center;
     display: block;
     opacity: 0;
-    -webkit-animation: fadein .5s 6s forwards;
-       -moz-animation: fadein .5s 6s forwards;
-         -o-animation: fadein .5s 6s forwards;
-            animation: fadein .5s 6s forwards;
+    -webkit-animation: fadein .5s 3s forwards;
+       -moz-animation: fadein .5s 3s forwards;
+         -o-animation: fadein .5s 3s forwards;
+            animation: fadein .5s 3s forwards;
 }
