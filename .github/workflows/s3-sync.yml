@@ -4,16 +4,7 @@ on:
   push:
     branches:
     - master
-
-on:
   workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'
-        required: true
-        default: 'debug'
-      tags:
-        description: 'Manual sync'
 
 jobs:
   deploy:
