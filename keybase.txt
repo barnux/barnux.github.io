@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/emabartolomucci
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://emanuelebartolomucci.com
+  * I am emabartolomucci (https://keybase.io/emabartolomucci) on keybase.
+  * I have a public key with fingerprint 6614 8331 40F0 5B01 30AC  BFED C397 CC2F C9D8 878A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019a5f2e3ecc8824273fd841eec12b2bb32660cc279503131c0b72fded44b4a7800a",
+      "fingerprint": "6614833140f05b0130acbfedc397cc2fc9d8878a",
+      "host": "keybase.io",
+      "key_id": "c397cc2fc9d8878a",
+      "kid": "01019a5f2e3ecc8824273fd841eec12b2bb32660cc279503131c0b72fded44b4a7800a",
+      "uid": "d0dce7f277ebbb89c7eabb29f802e019",
+      "username": "emabartolomucci"
+    },
+    "merkle_root": {
+      "ctime": 1613838503,
+      "hash_meta": "4b65fc051e874c0efc7bf39df498e56510de5680285cd7a12289a0ba848c31c4",
+      "seqno": 19172795
+    },
+    "revoke": {
+      "sig_ids": [
+        "9d827bb67a91acefe6d2c0c46fb39518675738eecf014fcce0129d80b51cfb150f"
+      ]
+    },
+    "service": {
+      "hostname": "emanuelebartolomucci.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1613838513,
+  "expire_in": 157680000,
+  "prev": "b58f3c7d215cea914ba5e4ad8ba8459b9f8320f68a75dd3e69d8cf148c2808bb",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK/AnicrVNdaBxFHL+zaUOiVwLWL5Qi2yIFjzAzu7Mze0KpaNWCffDBWEnjZWb2
+P5f17nbP3b1LQhv7JRbjB42oL77UkkrrR9pSMNVgrSXSqg/Gjygt6EO1ja0UKagF
+a9XZoFTER/dl2OH3/33NzHRhQa4zj+fO9yydai/kPz462sz1Y35ggyUjf9gqbbCq
+ML9AzYckLVcD3ypZCCPsCaoJ2KAU58QhzNY+dzCAwkQSKW3iukgpwjyKbGxjhSQj
+2gffcaQjGEdIWEVLB2EF4kYchKmhdV3scNvGDtKISoRtJJTU4CvbY4ZKK8/nnPFs
+cCBKsgljTooEuoPI7Jmf8ry9/8D/z76b83Q+8hUwTRgDKSX3FAMhJfE0RwSMUgZM
+IA5FHQwa6kKKOI1qUb2pVGCNFK06xNUalOMoSrOOVRpkSOxim9vc6JucIhko1yEV
+hsCRLtUKUQycOQqBVkxq2/O143GgLsXIN4vR5lT5TGBCuCeQFNzhygRxjJ0EHgsj
+o+BhliU0FmJoRVXI1JOgYupLrFKvZXojTEqXCQ8LBRpcnyikHFdL26OYu4wym5vO
+NMKOVsqEJWYGSYqVlpgibfWNZGpxK1Dz5Nl5XekhbEIN/llGt4rqxl4jjtJIRTWD
+GkjTRlLKSkqHG9nYIMjyX4RlGYS+uTlmogVxEkShiWSQ/+oPm/5gqBHEUA4yBGWm
+HPNlOtAylJJybSvmE0wVmKiOFBQc4fOsM+pJc5A2QdrlglHft8E1GZU2d1QRjriU
+VwolrvEpKobTtBiKtBmDNXL0yPq2XL4zt2jhVdmTynV2dP390I71tV9eesMXj+8M
+Ow5cs7jr1rkT4xOn9j9xOP/oPcUfJwtP9tz18CN3LntzerJv8x0Xmmtv711z+tmX
+dh6++ZW+Ny5sGbzt0x/w578Pr+r/8tCS93Flz458fVvp+9Ffbmy17Wr0nCSTo7te
+OH2+47q7l3QfQute3fZ68Edx99sHh36+OHV95ZnV0S2bxm+CjYuOzczu3jqtzj30
+655l93199tzgB6fo3mtXhk9tGWqtmLO/Rb+1B/cWzow/f3D79p4pdmbu8ntdsyuP
+fLSqcGnfpRUf4uLE1ct75fGTx9veun/z+Ak9tvi10rqfXnxwwTcXnx7z+sfe2fry
+jP4Efbd+zcTGte9+tXx29UI281l101nsPJfueOBPLciMAQ==
+=Dixv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/emabartolomucci
+
+==================================================================
+
